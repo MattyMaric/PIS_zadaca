@@ -1,0 +1,158 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Zbgty3JIRuw4sfJvK8E8">
+    <mxGraphModel dx="1133" dy="924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9PffQlzhomTFrHDSimQG-5" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9PffQlzhomTFrHDSimQG-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-99" y="175" />
+              <mxPoint x="-230" y="175" />
+              <mxPoint x="-230" y="55" />
+              <mxPoint x="-99" y="55" />
+            </Array>
+            <mxPoint x="-190" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-6" connectable="0" parent="9PffQlzhomTFrHDSimQG-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Unesen pogresan&amp;nbsp;&lt;div&gt;PIN&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1422" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-7" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9PffQlzhomTFrHDSimQG-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="113" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-8" connectable="0" parent="9PffQlzhomTFrHDSimQG-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Unesen tocan PIN" vertex="1">
+          <mxGeometry relative="1" x="0.0152" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ekran prijave" vertex="1">
+          <mxGeometry height="80" width="160" x="-179" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-10" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9PffQlzhomTFrHDSimQG-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-11" connectable="0" parent="9PffQlzhomTFrHDSimQG-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Klik na gumb&lt;div&gt;&quot;Skladiste&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0118" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-13" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;curved=1;" target="9PffQlzhomTFrHDSimQG-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="196" y="201" />
+              <mxPoint x="-99" y="201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-14" connectable="0" parent="9PffQlzhomTFrHDSimQG-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Klik na gumb &quot;Odjava&quot;" vertex="1">
+          <mxGeometry relative="1" x="-0.0129" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-17" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="9PffQlzhomTFrHDSimQG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-18" connectable="0" parent="9PffQlzhomTFrHDSimQG-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Odabir artikala" vertex="1">
+          <mxGeometry relative="1" x="0.0074" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Glavni izbornik" vertex="1">
+          <mxGeometry height="80" width="160" x="116" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Upravljanje zalihama" vertex="1">
+          <mxGeometry height="80" width="160" x="116" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-19" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="9PffQlzhomTFrHDSimQG-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="491" y="199" />
+              <mxPoint x="196" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-20" connectable="0" parent="9PffQlzhomTFrHDSimQG-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Storno" vertex="1">
+          <mxGeometry relative="1" x="-0.0078" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-23" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="9PffQlzhomTFrHDSimQG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-24" connectable="0" parent="9PffQlzhomTFrHDSimQG-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Klik na gumb&lt;div&gt;&quot;Print&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1026" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Izbornik sa popisom odabranih artikala" vertex="1">
+          <mxGeometry height="80" width="160" x="411" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-25" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="9PffQlzhomTFrHDSimQG-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="-11" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-27" connectable="0" parent="9PffQlzhomTFrHDSimQG-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Odabir &quot;Gotovina&quot;" vertex="1">
+          <mxGeometry relative="1" x="0.027" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-28" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="9PffQlzhomTFrHDSimQG-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-29" connectable="0" parent="9PffQlzhomTFrHDSimQG-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Odabir &quot;Karticom&quot;" vertex="1">
+          <mxGeometry relative="1" x="-0.0233" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Prozor za placanje" vertex="1">
+          <mxGeometry height="80" width="160" x="695" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-35" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="9PffQlzhomTFrHDSimQG-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1067" y="16" />
+              <mxPoint x="276" y="16" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ispis fiskalnog racuna" vertex="1">
+          <mxGeometry height="80" width="160" x="987" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-31" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="9PffQlzhomTFrHDSimQG-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="269" />
+              <mxPoint x="663" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-32" connectable="0" parent="9PffQlzhomTFrHDSimQG-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Odbijeno" vertex="1">
+          <mxGeometry relative="1" x="0.0364" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-33" edge="1" parent="1" source="9PffQlzhomTFrHDSimQG-30" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="9PffQlzhomTFrHDSimQG-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-34" connectable="0" parent="9PffQlzhomTFrHDSimQG-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Prihvaceno" vertex="1">
+          <mxGeometry relative="1" x="-0.3704" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9PffQlzhomTFrHDSimQG-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spajanje na terminal" vertex="1">
+          <mxGeometry height="80" width="160" x="697" y="229" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
