@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="1XvyCAaFBiEn_tzGQpyQ">
+    <mxGraphModel dx="1133" dy="924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POS SUSTAV" vertex="1">
+          <mxGeometry height="80" width="160" x="108" y="-261" as="geometry" />
+        </mxCell>
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="F1:PRODAJA" vertex="1">
+          <mxGeometry height="80" width="160" x="-153" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="F2:SKLADISTE" vertex="1">
+          <mxGeometry height="80" width="160" x="51" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="F3: IZVJESTAVANJE" vertex="1">
+          <mxGeometry height="80" width="160" x="255" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="F4: ADMINISTRACIJA" vertex="1">
+          <mxGeometry height="80" width="160" x="459" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="F1.1 Prijava i odjava zaposlenika&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;div&gt;F1.2&amp;nbsp;Otvaranje i zatvaranje prodajnog mjesta (smjene)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F1.3. Kreiranje računa i unos stavki&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F1.4. Primjena popusta i akcija&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F1.5. Naplata (gotovina, kartica)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;F1.6. Fiskalizacija i ispis računa&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;h4 data-path-to-node=&quot;17&quot;&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="378" width="161" x="-151" y="-55" as="geometry" />
+        </mxCell>
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="F2.1. Unos i ažuriranje matičnih podataka artikala&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F2.2. Izrada primki (zaprimanje robe)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F2.3. Praćenje stanja zaliha u realnom vremenu&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F2.4. Inventura i usklađivanje stanja&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F2.5. Otpis robe&lt;/div&gt;" vertex="1">
+          <mxGeometry height="347" width="160" x="51" y="-45" as="geometry" />
+        </mxCell>
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="F3.1. Generiranje dnevnog izvještaja o prometu (Z-izvještaj)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F3.2. Pregled prodaje po zaposlenicima&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F3.3. Analiza najprodavanijih artikala&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F3.4. Porezni izvještaji&lt;/div&gt;" vertex="1">
+          <mxGeometry height="353" width="159" x="255" y="-45" as="geometry" />
+        </mxCell>
+        <mxCell id="oxp4JVKkUUaMTk9KFfbD-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="F4.1. Upravljanje korisničkim računima i pravima pristupa&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F4.2. Konfiguracija pisača i fiskalnih parametara&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;F4.3. Sigurnosna kopija baze podataka (Backup)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="371" width="164" x="459" y="-32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
